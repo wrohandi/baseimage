@@ -1,2 +1,2 @@
 # docker-baseimage
-Docker Baseimage
+Baseimage with JDK 8
