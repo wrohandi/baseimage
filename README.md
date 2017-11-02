@@ -6,4 +6,4 @@ Baseimage with JDK 8
 * git
 * maven
 * unzip
-* ssh
+* ssh with key authentication possibility
