@@ -4,7 +4,7 @@ MAINTAINER Wira Rohandi <wira@rohandi.com>
 RUN add-apt-repository ppa:openjdk-r/ppa
 RUN apt-get update
 RUN apt-get upgrade -y
-RUN apt-get install -y -q unzip openjdk-8-jdk git mercurial subversion maven wget
+RUN apt-get install -y -q unzip openjdk-8-jdk git mercurial subversion maven wget nano
 
 # Enable SSH
 RUN rm -f /etc/service/sshd/down

@@ -3,6 +3,10 @@ docker-baseimage
 Baseimage with JDK 8
 
 ## Changelogs
+### 0.3
+Added nano
+
+
 ### 0.2
 Added wget
 
